@@ -1,5 +1,6 @@
 print("hello world")
 
+
 import random
 
 l=[]
@@ -12,6 +13,3 @@ print("monkey")
 
 x = random.randint(1,6)
 print(x)
-
-
-
